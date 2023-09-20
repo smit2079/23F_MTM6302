@@ -37,9 +37,9 @@
 
 
 //exception calling attributes as properties
-console.log( $main.className )
-console.log( $main.style);
-console.log( $main.getAttribute('style'));
+// console.log( $main.className )
+// console.log( $main.style);
+// console.log( $main.getAttribute('style'));
 
 //setAttribute()
 //Set the ID 'hero' on the first 'div' element inside the 'main' element.
@@ -84,8 +84,8 @@ console.log( $main.getAttribute('style'));
 
 
 //contains() and boolean condition
-console.log($hero.classList.contains('position-relative')) // true
-console.log($hero.classList.contains('text-bg-dark'))      // false
+// console.log($hero.classList.contains('position-relative')) // true
+// console.log($hero.classList.contains('text-bg-dark'))      // false
 
 //blog data
 const blogs = [
